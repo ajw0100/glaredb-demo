@@ -1,0 +1,12 @@
+{
+  "language": "python",
+  "app": "poetry run ./infrastructure.py",
+  "projectId": "bab109c7-9e0f-416f-9f2a-4da9baef87fc",
+  "sendCrashReports": "false",
+  "terraformProviders": [],
+  "terraformModules": [],
+  "codeMakerOutput": "imports",
+  "context": {
+
+  }
+}
